@@ -1,0 +1,86 @@
+*{margin:0;
+padding: 0;
+}
+
+body{
+    background-color: black   
+}
+
+.contenedor{
+    width: 800px;
+    height: 800px;
+    margin: 100px auto;
+    background-color: dimgrey;
+}
+
+.cuadrado1{
+    background-color: green;
+    margin: 20px;
+    width: 360px;
+    height: 360px;
+    float: left;
+    
+}
+
+.cuadrado1:hover{
+    background-color: greenyellow;
+}
+
+.cuadrado1:active{
+    background-color: palegreen;
+}
+
+.cuadrado2{
+    background-color: firebrick;
+    margin: 20px;
+    width: 360px;
+    height: 360px;
+    float: left;
+    
+}
+
+.cuadrado2:hover{
+    background-color: red;   
+}
+
+.cuadrado2:active{
+    background-color: indianred;   
+}
+
+
+.cuadrado3{
+    background-color: darkblue;
+    margin: 20px;
+    width: 360px;
+    height: 360px;
+    float: left;
+    
+}
+
+.cuadrado3:hover{
+    background-color: blue;
+    
+}
+
+.cuadrado3:active{
+    background-color: dodgerblue;
+    
+}
+
+.cuadrado4{
+    background-color: darkviolet;
+    margin: 20px;
+    width: 360px;
+    height: 360px;
+    float: left;   
+}
+
+.cuadrado4:hover{
+    background-color: violet;
+     
+}
+
+.cuadrado4:active{
+    background-color: mediumvioletred;
+     
+}

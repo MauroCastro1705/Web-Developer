@@ -1,0 +1,45 @@
+* {margin:  0; padding: 0;}
+body {background-color: aquamarine;}
+
+#header {background-color: crimson;
+        width: 80%;
+        height: 180px;
+        margin: 0 auto;}
+.logo {background-color: bisque;
+        width: 150px; height: 150px;
+        margin: 15px 0 15px 15px;
+        float: left;}
+
+.barrita {background-color: blue;
+        width: 60%; height: 60px;
+        float: right; margin-top: 60px;
+        margin-right: 1.5%}
+
+#navegador {background-color: cadetblue;
+            height: 60px; width: 80%;
+            margin: 0 auto;}
+
+#contenido {background-color: chocolate;
+            width: 80%; height: 600px;
+            margin: 0 auto;}
+
+.columna1 {background-color: darkgoldenrod;
+            width: 30%; height: 600px;
+            float: left;}
+
+.columna2 {background-color: darkgoldenrod;
+            width: 30%; height: 600px;
+            float: right;}
+
+.columna2 {}
+
+#footer {background-color: darkgreen;
+        width: 80%; height:50px;
+        margin:  0 auto;}
+
+
+
+
+
+
+

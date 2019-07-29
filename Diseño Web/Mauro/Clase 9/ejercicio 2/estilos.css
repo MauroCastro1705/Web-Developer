@@ -1,0 +1,35 @@
+* {margin: 0; padding: 0}
+
+body {background-color: firebrick;}
+
+.contenedor {background-color: gray; width: 80%; height: 800px; margin: 50px auto; padding: 10px;}
+
+/*---------------header/fotos -----------------*/
+
+.header { background-color: firebrick; height: 150px; 
+            width: 100%;float: left}
+
+.headerfotouno {height: 150px; width: 29%;float: left;}
+
+.headerfotodos {height: 150px; width: 70%;
+                float: right;}
+
+/*-----------CONTENIDO--------------------*/
+
+.columnaizq {background-color: firebrick; height: 540px; width: 20%; float: left; margin-top: 10px; padding-top: 10px;}
+
+.columnader {background-color: white; float: right; height: 530px; width: 77%; margin-top: 10px; padding: 10px;}
+
+/*--------------- Barra nav-----------------*/
+
+.columnaizq ul {list-style-type: none; margin: 0; padding: 0;}
+
+.columnaizq li a {text-decoration: none; color: black; display: block; width: 180px;height: 20px ;font-family: sans-serif; background-color: red; margin-top: 5px; margin-left: 5px; font-size: 18px; padding: 5px}
+
+li a:hover {color: white;}
+
+/*------------------------FOOter----------------*/
+
+.footer {background-color: firebrick; margin-top: 10px; height: 80px; width: 100%; float: left;}
+
+.footer h1 {color: white; float: right; font-family: sans-serif;    font-size: 20px; margin-top: 25px; margin-right: 10px;}

@@ -1,0 +1,85 @@
+* {margin:  0; padding: 0;}
+
+body {font-family: calibri; color: dimgray}
+
+
+
+
+#contenedor { height: 3000px;width: 80%;
+            margin: 0 auto}
+
+/*------ PARTE HEADER-NAV-SLIDER-----------------*/
+
+#header { width: 100%;
+        height: 80px; float: left}
+
+.logo {background-color: darkred; height: 100%;
+        width: 110px; color: white; text-align: center; float: left;}
+.logo h1 {font-size: 35px; margin-top: 20px;}
+
+.nav {height: 100%;width: 50%;float: right;}
+
+.nav ul {list-style-type: none; margin: 0; padding:                                  0; overflow: hidden; float: right; width: 100%;                    height:80px;}
+
+.nav li {float: right;}
+
+.nav li a {display: block;
+            text-decoration: none; color: darkred;
+            font-size: 16px; font-weight: 800;
+            padding: 32px; text-align: center; ;}
+
+.nav li a:hover {background-color: darkred;
+                    color: white;}
+
+#slider {background-color:wheat;
+        height: 400px;width: 100%; float: left;
+        text-align: center;}
+
+#slider h1 {text-align: center;margin-top: 150px}
+
+/* ----------PARTE DE PROYECTOS------------------ */
+
+.proyect {width: 100%; height: 340px; float: left;
+            background-color:lightgray }
+
+.texto-der {height:100%; width: 50%;
+            float: right;text-align:left;}
+
+.texto-der p {margin-top: 20px;margin-left: 20px;}
+.texto-der h1 {margin-top: 60px;margin-left: 20px;}
+
+.imagen-izq {height: 100%; width: 50%; float: left;}
+
+
+.texto-izq {height:100%; width: 50%; float: left;                                   text-align:left;}
+
+.texto-izq p {margin-top: 20px;margin-left: 20px;}
+.texto-izq h1 {margin-top: 60px;margin-left: 20px;}
+
+.imagen-der {height: 100%; width: 50%; float: right;}
+
+/*----------------PARTE LEADERSHIP------------------ */
+
+#leadership {; height: 500px; width: 100%; float: left;}
+
+.titulos {text-align: center;margin-top: 20px; margin-bottom: 20px;}
+
+.cajitas {height: 400px; width: 25%; float: left;;}
+
+.cajitas-foto {height: 245px; width: 245px;}
+
+.cajita-texto {height: 245px; width: 245px; text-align: center;
+                margin-top: 20px;}
+
+/*-------------PARTE FEATURES -------------------------*/
+
+#features {background-color:lightgray; width: 100%; height: 450px;             float: left;}
+
+.titulos-features {margin-top: 30px;margin-bottom: 30px;}
+
+.cajita-features {height: 200px; width: 30%; float: left;
+                    margin-left: 30px;}
+
+/*---------------------FOOTER-------------------*/
+
+#footer {background-color: darkgray; height: 200px; width: 100%;                float: left; text-align: center}

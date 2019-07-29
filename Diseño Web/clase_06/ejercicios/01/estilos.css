@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: arial, sans-serif;
+}
+
+h1{
+    margin: 20px 20px;
+    font-size: 36px;
+}
+
+h2{
+    margin: 20px 20px;
+    font-size: 28px;
+}
+p{
+    margin: 10px 20px;
+    text-align: justify;
+    
+}
+
+
+a:link {
+    color: blue;
+}
+
+
+a:visited {
+    color: red;
+}
+
+
+a:hover {
+    color: hotpink;
+}
+
+
+a:active {
+    color: green;
+}
+
+img{
+    margin: 20px;
+    
+}

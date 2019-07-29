@@ -1,0 +1,115 @@
+* {margin: 0; padding: 0}
+
+body {font-family: sans-serif; 
+        background-color: gray;}
+
+#contenedor {width: 70%; height:1800px;
+            background-color: white;
+            margin: 0 auto; padding: 10px;}
+
+.header {width: 100%; height: 50px;  
+            margin: 0 auto;float: left;}
+
+.links {float: right; color: gray; list-style: none;
+        text-decoration: none; overflow: hidden;}
+
+.links li {float: right; }
+
+.links a {text-decoration: none; color: gray;
+            padding: 10px;}
+
+.links a:hover {color: red;}
+/*-----------------HEADER 2--------------------------*/
+
+.header2 {width: 100%; height: 100px;   
+            float: left;}
+
+.homeshope {float: left; margin-top: 30px;font-size: 30px;}
+
+.texto {margin-top: 30px;color:darkred; float: right;
+        font-size: 22px;}
+
+/*-------------------Arranca navegador--------------*/
+
+#navegador {background-color: gray;
+            height: 49px; width: 100%;
+            float: left; border-radius: 5px;
+            overflow: hidden;}
+
+#navegador a {text-decoration: none; color: white;
+                float: left; padding: 15px;}
+#navegador li a {overflow: hidden; display: block;}
+
+#navegador a:hover {background-color: darkred;}
+
+#navegador ul {list-style-type: none;}
+
+input.buscar {float: right; height: 30px; width: 300px;
+            border-radius: 5px; margin-right: 10px;
+            margin-top: 6px; font-size: 16px; }
+
+/*-------------------SLIDER----------------------*/
+
+.slider {width: 100%; height: 500px;float: left;}
+
+.slider ul {width: 24%; height: 500px; float: left;
+            }
+
+.listas {list-style-type: none;
+            padding:26px; display: block; } 
+
+.slider a {text-decoration: none; color: darkred;}
+
+.slider a:hover {color: gray;}
+
+.imagen_slider {background-color: aqua;
+                width: 670px;height: 500px; float: right;}
+
+/*------------------PRODUCtos-----------------*/
+
+
+.bloque_productos {width: 100%;
+                    height: 350px; float: left;}
+
+.titulo {width: 100%; height: auto; border-bottom: solid gray;
+        border-top: solid grey; text-align: center; float: left;}
+
+.productos {height: 300px; width: 24%;margin-left: 0.8%;
+            float: left;text-align: center;}
+
+.productos p {font-size: 18px; color: dimgrey; margin: 10px;}
+
+.productos input {padding: 10px;
+                background-color: darkred;
+                 color: white; border: 0; border-radius: 3px;}
+.productos input:hover {background-color: gray;}
+
+.footer {background-color: darkred; width: 100%; height: 250px;
+        float: left; color: white;}
+
+.columnafooter { width: 20%; height: 100%; margin: 5px;
+                float: left;font-size: 15px; padding: 15px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

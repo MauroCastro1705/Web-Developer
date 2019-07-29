@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, sans-serif ;
+    background-color: red;
+}
+
+
+h1{
+    font-size: 2em;
+    font-weight: 800;
+    color: aliceblue;
+}
+
+#contenedor{
+    margin: 5% auto;
+    width: 70%;
+}
+
+nav{
+    width: 100%;
+    height: 10%;
+    overflow: auto;
+}
+
+nav ul{
+    list-style: none;  
+}
+
+nav ul li{
+    margin: 2%;
+    float: left;
+    }
+
+nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: 400;
+    }
+
+.imagen img{
+    width: 100%;
+}
+
+.frutas{
+    width: 100%;
+}
+
+.frutas p{
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 1.8em;
+    color: aliceblue;
+    margin: 1% 0;
+}
+
+.manzana img {
+    width: 100%;
+        
+}
+
+.manzana p{
+    text-align: justify;
+    color: firebrick; 
+    margin: 1% 0;
+}
+
+.pera img {
+    width: 100%;
+        
+}
+
+.pera p{
+    text-align: justify;
+    color: darkgreen; 
+    margin: 1% 0;
+}
+
+.banana img {
+    width: 100%;
+        
+}
+
+.banana p{
+    text-align: justify;
+    color: yellow; 
+    margin: 1% 0;
+}
+
+footer{
+    background-color:darkslategray;
+    overflow: auto;
+    text-align: center;
+    padding: 1%
+}
+
+footer p {
+    color: aliceblue;
+    font-size: 1em;
+}
+
+
+
+

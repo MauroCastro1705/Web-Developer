@@ -1,0 +1,46 @@
+* {padding: 0; margin: 0;}
+
+body {background-color: skyblue;}
+
+#contenedor {background-color: white;
+            width: 70%; height: 1000px;
+            margin: 0 auto;
+            padding:10px;
+            }
+/*--------margin-bottom: 10px;--------*/
+
+.header {background-color: crimson; 
+        height: 50px; width: 100%;
+        float: left; margin: 0 auto;
+        margin-bottom: 20px;}
+
+.nav {background-color:darkgoldenrod; 
+        height: 80px; width: 100%;
+        float: left; margin: 0 auto;
+        margin-bottom: 30px;}
+
+.links { background-color: brown;
+        height: auto; width: 38%;
+        float: left;}
+
+.imagenes {background-color: chocolate;
+            height: 480px; width: 60%;
+            float: right;}
+.footer {background-color: greenyellow;
+        height: 100px; width: 100%;
+        float: left; margin-top: 20px }
+
+
+/*--------LISTA DE LINKS--------*/
+
+a {color: white; font-family: sans-serif;}
+
+ul {list-style-type: none;
+    margin: 0; padding: 0;
+    width: 100%;}
+
+li a {display: block; width: 91%;
+        text-decoration: none; padding: 15px}
+
+li a:hover {background-color: darkorange;   
+            color: darkred;}

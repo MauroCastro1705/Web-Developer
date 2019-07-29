@@ -1,0 +1,32 @@
+*{margin:0;
+padding:0;}
+
+.top{
+    margin: 0 auto;
+    width: 900px;
+    height:40px;
+    background-color: aqua;
+
+}
+
+.encabezado{
+    margin: 0 auto;
+    width: 900px;
+    height:100px;
+    background-color: bisque;
+}
+
+.cuerpo{
+    margin: 0 auto;
+    width: 900px;
+    height:800px;
+    background-color: brown;
+    
+}
+
+.pie{
+    margin: 0 auto;
+    width: 900px;
+    height:50px;
+    background-color: cadetblue;
+}

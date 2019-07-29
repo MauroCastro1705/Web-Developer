@@ -1,0 +1,155 @@
+
+*{
+    padding: 0;
+    margin: 0;    
+}
+
+body{
+    background-color: white;
+    font-family: Calibri, sans-serif;    
+}
+
+h1{
+    font-size: 48px;
+}
+
+p {font-size:21px;
+    line-height: 23px;
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.topbar{
+    width: 100%;
+    height: 40px;
+    background-color: darkorange;
+    float: left;
+   
+}
+
+.topbar p{
+    margin: 10px;
+    color: white;
+    font-size: 18px;
+}
+
+redessociales{
+    width: 100%;
+    height: 60px;
+   
+}
+
+redessociales img{
+    width: 400px;
+    height: 40px;
+    
+   
+}
+
+.contenedor{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    align-content: red;
+    
+}
+
+.header{
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.logo{
+    width: 250px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+.textoslogos{
+    margin: 0 auto;
+    width: 650px;
+    height: 20px;
+}
+
+p.fecha{
+    margin:0;
+    font-size: 16px;
+    width: 200px;
+    color: darkgray;
+    float: left;
+    height: 20px;
+}
+
+ p.link{
+    margin: 0;
+    font-size: 16px;
+    width: 450px;
+    color: black;
+    float: right;
+    font-weight: 600;
+    height: 20px;
+}
+
+.contenido{
+    width: 100%;
+    height: auto;
+}
+
+.links3{
+    
+    width: 98%;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.links3 p{
+    font-size: 16px;
+    margin: 10px 0;
+    
+}
+
+.banner {
+    width: 750px;
+    height: 190px;
+    margin: 0 auto;
+    background-color: red;
+}
+
+.contenido{
+    width: 100%;
+    height: auto;
+    color: black
+}
+
+p.tecno{
+    color: darkorange;
+    font-size: 24px;
+    font-weight: 600;    
+}
+
+p.copete{
+    font-size: 21px;
+    line-height: 26px;
+    margin:10px 0;    
+}
+
+.columna1{
+    width:60%;
+    float: left;
+   height: auto;
+}
+
+.columna2{
+    width: 35%;
+    height: auto;
+    float: right; 
+    text-align: center;
+}
+
+.columna2 img{
+    margin: 10px 0;
+    height: auto;
+}

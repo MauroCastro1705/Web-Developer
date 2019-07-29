@@ -1,0 +1,34 @@
+*{margin: 0; padding: 0}
+
+body {font-family: sans-serif;}
+
+
+#header {background-color:blueviolet; width: 100%; height: 170px; float: left}
+
+#nav {background-color: darkmagenta; width: 95%; height: 50px; margin: 120px 0 0 2.5%; border-radius: 5px} 
+
+.logo { width: 80px; height: 50px; float: left; background-color:darkgreen;}
+
+.live {float: left;margin: 10px; width: 55px; height: 35px; background-color: darkorchid; border-radius: 5px;}
+
+a {text-decoration: none; font-family: sans-serif; color: white; font-weight: 700; float: left; margin: 15px;}
+
+.live a {margin: 8px;}
+
+#contenido {background-color: chocolate; width: 95%; height:1000px;margin: 0 0 0 2.5%; float: left}
+
+.slider {width: 100%} 
+
+
+
+#footer {background-color: crimson; width: 100%; height: 150px; float: left;}
+
+.foot {margin: 50px 0 0  100px; color: white;}
+
+
+--------------------------------------------------
+#columna1 {background-color: coral; width: 67%; height: 500px; float: left; }
+
+#columna2 {background-color: darkorange; width: 33%; height: 250px; float: right; }
+
+#columna3 {background-color: darkgoldenrod; width: 33%; height: 250px; float: right;}
